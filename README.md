@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://smartcampus.facens.br" target="_blank">
-    <img src="https://smartcampus.facens.br/wp-content/uploads/2021/06/logo-smart-campus-facens.svg" alt="Smart Campus Facens" width="300">
+    <img src="https://smartcampus.facens.br/wp-content/uploads/2021/05/logo-lab.jpg" alt="Smart Campus Facens" width="300">
   </a>
 </p>
 
